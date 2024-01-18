@@ -1,11 +1,10 @@
 <div align="center">
 
-[![*## Hi there 👋*
-***# I am Bhavna Makode***]([header image](https://pin.it/7mdgIqQ4n))](https://github.com/Bhavna2003)
+[![Hi there 👋 I'm Bhavna Makode](https://pin.it/7mdgIqQ4n)](https://github.com/Bhavna2003)
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Bhavna_makode) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavna-makode-6216ba244/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhavnamakode20@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhavnamakode20@gmail.com?subject=Hello%20Bhavna,%20From%20Github)
 
 </div>
 *## Hi there 👋*
