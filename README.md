@@ -34,14 +34,55 @@
     <a target="_blank"href="https://medium.com/@bhavnamakode20"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
 
-## 🏆 My Stats:
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<p>
-    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=bhavna2003&show_icons=true&count_private=true&theme=dark" />&nbsp;&nbsp;
-    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavna2003&layout=compact&theme=dark" />&nbsp;&nbsp;
-</p>
+<table width="100%">
+  <tr>
+     <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bhavna2003">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhavna2003&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bhavna2003">
+          <img align="center" src="https://streak-stats.demolab.com?user=bhavna2003&theme=nightowl" alt="Streak Stats" />
+        </a>
+         </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bhavna2003/kittenfriends">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=bhavna2003&repo=kittenfriends&theme=nightowl&show_owner=true" alt="kittenfriends" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/bhavna2003">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=bhavna2003&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  </table>
+<br />
 
-## 🤝 My Contributions and Badges:
+<!--Contribution Graph-->
+## 📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bhavna2003&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+
+## 🏆 My Contributions and Badges:
 
 [![An image of @bhavna2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavna2003)](https://holopin.io/@bhavna2003)
 
