@@ -16,9 +16,11 @@
 + 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
 * ⚡ Fun fact: I read books!
 
+<div align="center">
+  
 ## 💻 My Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,firebase,cpp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,firebase,cpp)](https://skillicons.dev)
 
 ## 📖 Read My Blogs:
 
@@ -38,3 +40,4 @@
 
 [![An image of @bhavna2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavna2003)](https://holopin.io/@bhavna2003)
 
+</div>
