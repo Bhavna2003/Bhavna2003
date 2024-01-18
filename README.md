@@ -1,5 +1,5 @@
+#*** Hi there 👋 I am Bhavna Makode***
 <div align="center">
-***# Hi there 👋 I am Bhavna Makode***
   
 [![Hi there 👋 I'm Bhavna Makode](assets/header.jpg)](https://github.com/Bhavna2003)
 
@@ -8,15 +8,11 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhavnamakode20@gmail.com?subject=Hello%20Bhavna,%20From%20Github)
 
 </div>
-*## Hi there 👋*
-***# I am Bhavna Makode***
-![header image](https://pin.it/7mdgIqQ4n)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
++ 🔭 I’m currently working on Frontend projects.
+- 💬 Ask me about Web Development.
+* 🌱 I’m passionate about Developing websites.
+- 📝 I’m aiming to write one article per week starting from January 2024.
++ 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
+* ⚡ Fun fact: I read books!
 
