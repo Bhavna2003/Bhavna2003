@@ -1,4 +1,3 @@
-#*** Hi there 👋 I am Bhavna Makode***
 <div align="center">
   
 [![Hi there 👋 I'm Bhavna Makode](assets/header.jpg)](https://github.com/Bhavna2003)
@@ -8,6 +7,8 @@
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhavnamakode20@gmail.com?subject=Hello%20Bhavna,%20From%20Github)
 
 </div>
+
+# ***Hi there 👋 I am Bhavna Makode***
 
 + 🔭 I’m currently working on Frontend projects.
 - 💬 Ask me about Web Development.
