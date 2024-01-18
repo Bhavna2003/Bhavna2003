@@ -1,3 +1,4 @@
+# ***Hi there 👋 I'm Bhavna Makode***
 <div align="center">
   
 [![Hi there 👋 I'm Bhavna Makode](assets/header.jpg)](https://github.com/Bhavna2003)
@@ -8,8 +9,6 @@
 
 </div>
 
-# ***Hi there 👋 I am Bhavna Makode***
-
 + 🔭 I’m currently working on Frontend projects.
 - 💬 Ask me about Web Development.
 * 🌱 I’m passionate about Developing websites.
@@ -17,3 +16,12 @@
 + 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
 * ⚡ Fun fact: I read books!
 
+## 💻 My Tech Stack:
+
+[![JavaScript, HTML, CSS](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js, react, html, css, tailwind, nodejs, express, firebase, cpp&perline=3" />
+  </a>
+</p>
