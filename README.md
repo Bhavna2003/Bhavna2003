@@ -18,10 +18,8 @@
 
 ## 💻 My Tech Stack:
 
-[![JavaScript, HTML, CSS](https://skillicons.dev/icons?i=js,html,css&perline=3)](https://skillicons.dev)
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js, react, html, css, tailwind, nodejs, express, firebase, cpp&perline=3" />
+    <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,firebase,cpp&perline=3" />
   </a>
 </p>
