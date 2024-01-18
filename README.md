@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Hi there 👋 I'm Bhavna Makode](https://pin.it/7mdgIqQ4n)](https://github.com/Bhavna2003)
+[![Hi there 👋 I'm Bhavna Makode](assets/header.jpg)](https://github.com/Bhavna2003)
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Bhavna_makode) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavna-makode-6216ba244/) &nbsp;
