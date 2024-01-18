@@ -1,6 +1,16 @@
+<div align="center">
+
+[![*## Hi there 👋*
+***# I am Bhavna Makode***]([header image](https://pin.it/7mdgIqQ4n))](https://github.com/Bhavna2003)
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Bhavna_makode) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavna-makode-6216ba244/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhavnamakode20@gmail.com?subject=Hello%20Jasper,%20From%20Github)
+
+</div>
 *## Hi there 👋*
 ***# I am Bhavna Makode***
-![header image](https://i.pinimg.com/564x/5f/a1/a1/5fa1a12982f88e6bf7aaa67caf38644f.jpg)
+![header image](https://pin.it/7mdgIqQ4n)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
