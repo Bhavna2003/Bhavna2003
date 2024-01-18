@@ -1,4 +1,4 @@
-![Hi there 👋 I'm Bhavna Makode](assets/github-header-image.png)(https://github.com/Bhavna2003)
+![Hi there 👋 I'm Bhavna Makode](assets/github-header-image.png)
 <div align="center">
 
 [![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Bhavna_makode) &nbsp;
