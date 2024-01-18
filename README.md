@@ -2,10 +2,11 @@
   
 ![Hi there 👋 I'm Bhavna Makode](assets/github-header-image.png)
 
-[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Bhavna_makode) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavna-makode-6216ba244/) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhavnamakode20@gmail.com?subject=Hello%20Bhavna,%20From%20Github)
+</div>
 
+<!--owl image-->
+<div>
+  <img align="right" width="20%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 + 🔭 I’m currently working on Frontend projects.
@@ -14,6 +15,11 @@
 - 📝 I’m aiming to write one article per week starting from January 2024.
 + 🏆 I'm striving to increase my GitHub stats rating by contributing to open source.
 * ⚡ Fun fact: I read books!
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bhavna2003&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="bhavna2003" style="padding-right:20px;" />
+</p>
 
 <div align="center">
   
@@ -38,5 +44,11 @@
 ## 🤝 My Contributions and Badges:
 
 [![An image of @bhavna2003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhavna2003)](https://holopin.io/@bhavna2003)
+
+## 🤝 Connect with me:
+
+[![Twitter/X](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Bhavna_makode) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bhavna-makode-6216ba244/) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:bhavnamakode20@gmail.com?subject=Hello%20Bhavna,%20From%20Github)
 
 </div>
